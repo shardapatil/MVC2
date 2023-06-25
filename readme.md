@@ -12,7 +12,7 @@ CREATE TABLE products
     
 );
 
-INSERT INTO `nikhil`.`products`
+INSERT INTO `n`.`products`
 (`product_no`,
 `product_price`,
 `current_stock`)
@@ -21,7 +21,7 @@ VALUES
 100,
 1);
 
-INSERT INTO `nikhil`.`products`
+INSERT INTO `n`.`products`
 (`product_no`,
 `product_price`,
 `current_stock`)
@@ -31,7 +31,7 @@ VALUES
 1);
 
 
-INSERT INTO `nikhil`.`products`
+INSERT INTO `n`.`products`
 (`product_no`,
 `product_price`,
 `current_stock`)
